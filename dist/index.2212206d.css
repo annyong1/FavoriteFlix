@@ -5,11 +5,9 @@
   padding: 10px;
 }
 
-.movie-image {
-  width: 100px;
-  height: auto;
-  margin-bottom: 10px;
-  display: block;
+.movie-card-image {
+  object-fit: cover;
+  height: 500px;
 }
 
 .director-details {
